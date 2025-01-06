@@ -1,5 +1,3 @@
-# Tech-Eyasin
-This is an robotics,  electronics, Science and Technology website.
 <!DOCTYPE html>
 <html lang="en">
 <head>
